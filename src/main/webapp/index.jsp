@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello there everyone!</h2>
+<h2>--- Jenkins --- Tomcat --- Maven --- Java ---</h2>
 </body>
 </html>
